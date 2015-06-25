@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+/* Layout Medium Screens */
+
+h1, h2, h3, h4, h5, h6 {font-size: 3em;}
+header { height: 650px; background-color: #7ec9ee;}
+header a.logo { width: 210px; 
+				height: 300px; 
+				top:170px; 
+				right: 70%;
+				left:  35%;
+				background-image: url(../images/logo_medium.png);}
+
+nav {}
+nav a { margin: 12px 0px 10px 40px;
+		font-size: 1.4em;}
+p.about{font-size: 2em;}
+p.flavors{font-size: 1.5em;}
+
+.promo_container { padding: 0px 20px 15px 20px;}
+.promo_container .promo { background-position: 0px 0px;}
+.promo_container .promo .content { padding: 70px 30px 0px 0px;}
+
+body { background-image:none;}
+
+
+
+
